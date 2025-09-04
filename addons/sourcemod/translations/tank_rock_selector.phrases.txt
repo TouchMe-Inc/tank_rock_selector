@@ -1,0 +1,37 @@
+"Phrases"
+{
+    "BRACKET_START"
+    {
+        "en"            "┌ "
+    }
+
+    "BRACKET_MIDDLE"
+    {
+        "en"            "├ "
+    }
+
+    "BRACKET_END"
+    {
+        "en"            "└ "
+    }
+
+    "TAG"
+    {
+        "en"            "<{green}Tank Rock Selector{default}> "
+    }
+
+    "HELP_TWO_HAND_OVERHAND"
+    {
+        "en"            "{olive}Reload{default} Two Handed Overhand{default}"
+    }
+
+    "HELP_UNDERHAND"
+    {
+        "en"            "{olive}Use{default} Underhand{default}"
+    }
+
+    "HELP_ONE_HAND_OVERHAND"
+    {
+        "en"            "{olive}M2{default} One Handed Overhand{default}"
+    }
+}

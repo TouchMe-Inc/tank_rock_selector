@@ -1,0 +1,37 @@
+"Phrases"
+{
+    "BRACKET_START"
+    {
+        "ru"            "┌ "
+    }
+
+    "BRACKET_MIDDLE"
+    {
+        "ru"            "├ "
+    }
+
+    "BRACKET_END"
+    {
+        "ru"            "└ "
+    }
+
+    "TAG"
+    {
+        "ru"            "<{green}Tank Rock Selector{default}> "
+    }
+
+    "HELP_TWO_HAND_OVERHAND"
+    {
+        "ru"            "{olive}Reload{default} Двуручный бросок над головой{default}"
+    }
+
+    "HELP_UNDERHAND"
+    {
+        "ru"            "{olive}Use{default} Нижний бросок{default}"
+    }
+
+    "HELP_ONE_HAND_OVERHAND"
+    {
+        "ru"            "{olive}M2{default} Одноручный бросок над головой{default}"
+    }
+}
